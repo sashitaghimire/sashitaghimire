@@ -5,16 +5,15 @@
 - 📫 How to reach me: [sashitaghimire](https://sashitaghimire.netlify.app/)
 - ⚡ Fun fact: I love to travel
 
-![Sashita's Github stats](https://github-readme-stats.vercel.app/api?username=sashitaghimire&show_icons=true&count_private=true&theme=radical)
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sashita-ghimire/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]((https://twitter.com/sashita_ghimire)) 
 
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=sashitaghimire&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sashitaghimire&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sashitaghimire&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=sashitaghimire&show_icons=true&count_private=true&theme=radical)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sashitaghimire&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sashitaghimire&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <!-- ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sashitaghimire&theme=flat&no-frame=false&no-bg=true&margin-w=4) -->
