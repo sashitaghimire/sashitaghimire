@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on React JS
-- 🌱 I’m currently learning Javacript, Flutter
+- 🔭 I’m currently working on React JS 
+- 🌱 I’m currently learning Javascript, Python
 - 📫 How to reach me: [sashitaghimire](https://sashitaghimire.netlify.app/)
 
 
